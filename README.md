@@ -40,9 +40,9 @@ The suggested order for going through each of the directories is:
 
 ## Resources
 
-* [Installing Python and pipenv](https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv)
-* [JavaScript <-> Python cheatsheet](https://github.com/LambdaSchool/CS-Wiki/wiki/Javascript-Python-cheatsheet)
-* [How to read Specs and Code](https://github.com/LambdaSchool/CS-Wiki/wiki/How-to-Read-Specifications-and-Code)
+* [Installing Python and pipenv](https://github.com/BloomInstituteOfTechnology/CS-Wiki/wiki/Installing-Python-3-and-pipenv)
+* [JavaScript <-> Python cheatsheet](https://github.com/BloomInstituteOfTechnology/CS-Wiki/wiki/Javascript-Python-cheatsheet)
+* [How to read Specs and Code](https://github.com/BloomInstituteOfTechnology/CS-Wiki/wiki/How-to-Read-Specifications-and-Code)
 * [Python 3 standard library](https://docs.python.org/3.6/library/)
 
 ## Stretch goals
